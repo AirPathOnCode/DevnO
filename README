@@ -1,0 +1,14 @@
+# Devno
+The bot for my Discord community
+
+
+### Updates [v0.3.7 alpha]
+DevnO is currently uncompatible to the discord api. We are currently fixing this issue.
+
+### Installation
+The currently available installation methods are:
+Python    -Manual installation 
+Docker    -We are currently developing a stable docker image
+
+You can find a full step-by-step guide on installing DevnO on our WiKi[https://airpathoncode.github.io/wiki/devno.html]
+
